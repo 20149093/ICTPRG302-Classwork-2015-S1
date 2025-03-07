@@ -16,3 +16,21 @@ print(tic_tac[0:5])
 
 # Write the code to show characters 8 to 10
 print(tic_tac[7:10])
+
+# Write the code to print every other character.
+print(tic_tac[0:18:2])
+print(tic_tac[::2])
+print(tic_tac[::2])
+print(tic_tac[::2])
+
+# Various other tricks
+#ctrl D repite la linea que tenga subrayada
+
+print(tic_tac.lower())
+print(tic_tac.upper())
+
+word = "BALTIMORE"
+for letter in word:
+    print()
+
+
